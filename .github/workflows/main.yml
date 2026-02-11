@@ -42,7 +42,7 @@ jobs:
           set -e
           . .venv/bin/activate
           # run the specific script(s) — replace with your script filename
-          python *.py
+          python feed_generator.py
 
       - name: Commit and push feed
         run: |
