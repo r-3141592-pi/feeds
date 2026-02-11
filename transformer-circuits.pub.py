@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+from pathlib import Path
 import email.utils
 import re
 from urllib.parse import urljoin
