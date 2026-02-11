@@ -141,7 +141,9 @@ def main():
     if html_content:
         articles = extract_articles(base_url, html_content)
         rss_feed = generate_rss(articles)
-        print(rss_feed)
+        out = Path("transformer-circuits.pub.xml")
+        out.write_text(rss_feed, encoding="utf-8")
+        print(f"Wrote RSS to {out.resolve()}")
 
 if __name__ == "__main__":
     main()
