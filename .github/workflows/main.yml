@@ -45,7 +45,7 @@ jobs:
           uv venv
           source .venv/bin/activate
           uv pip install -r requirements.txt
-          python feed_generators/run_all_feeds.py
+          python *.py
 
       - name: Commit and push feed
         run: |
@@ -53,7 +53,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
           # Add feed XML files (cache files no longer used)
-          git add feeds/*.xml
+          git add *.xml
 
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
