@@ -2,60 +2,55 @@ name: Run Feeds
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # allow actions to push changes
 
 jobs:
   run-feeds:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11" # Use Python 3.11 to include distutils
+          python-version: "3.11"
 
-      - name: Install uv
+      - name: (Optional) Debug workspace - show files
         run: |
-          curl -LsSf https://astral.sh/uv/install.sh | sh
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
+          echo "GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
+          pwd
+          ls -la
+          if [ -f requirements.txt ]; then echo "requirements.txt found"; else echo "requirements.txt MISSING"; fi
 
-      - name: Install system dependencies
+      - name: Create venv and install deps
         run: |
-          sudo apt-get update
-          sudo apt-get install -y software-properties-common
-          sudo add-apt-repository universe
-          sudo apt-get update
-          sudo apt-get install -y python3-setuptools
+          set -e
+          python -m venv .venv
+          . .venv/bin/activate
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
 
-      - name: Install Chrome for Selenium
+      - name: Run feed generator(s)
         run: |
-          sudo apt-get install -y wget gnupg
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-chrome-keyring.gpg
-          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-
-      - name: Install Python dependencies and run feed generators
-        run: |
-          set -e  # Fail the step on any error
-          uv venv
-          source .venv/bin/activate
-          uv pip install -r requirements.txt
+          set -e
+          . .venv/bin/activate
+          # run the specific script(s) — replace with your script filename
           python *.py
 
       - name: Commit and push feed
         run: |
+          set -e
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-          # Add feed XML files (cache files no longer used)
-          git add *.xml
-
-          # Check if there are any changes to commit
+          # add XMLs if present (no-fail if none)
+          git add *.xml || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
