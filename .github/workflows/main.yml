@@ -42,7 +42,11 @@ jobs:
           set -e
           . .venv/bin/activate
           # run the specific script(s) — replace with your script filename
-          python *.py
+          for script in *.py; do
+            echo "Running $script..."
+            python "$script"
+          done
+
 
       - name: Commit and push feed
         run: |
