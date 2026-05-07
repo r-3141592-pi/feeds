@@ -4,8 +4,8 @@
  <title>Transformer Circuits</title>
  <description>Unofficial RSS feed for Transformer Circuits Thread (transformer-circuits.pub)</description>
  <link>https://transformer-circuits.pub/</link>
- <lastBuildDate>Wed, 06 May 2026 03:55:02 -0000</lastBuildDate>
- <pubDate>Wed, 06 May 2026 03:55:02 -0000</pubDate>
+ <lastBuildDate>Thu, 07 May 2026 03:53:14 -0000</lastBuildDate>
+ <pubDate>Thu, 07 May 2026 03:53:14 -0000</pubDate>
  <item>
   <title>HeadVis We develop an interactive visualization tool to help us understand the behaviors of attention heads in language models.</title>
   <description>April 2026</description>
@@ -19,13 +19,13 @@
   <guid>https://transformer-circuits.pub/2026/emotions/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Cross-Post â Activation Oracles We train language models to answer questions about their own activations in natural language.</title>
+  <title>Circuits Cross-Post — Activation Oracles We train language models to answer questions about their own activations in natural language.</title>
   <description>November 2025</description>
   <link>https://alignment.anthropic.com/2025/activation-oracles/</link>
   <guid>https://alignment.anthropic.com/2025/activation-oracles/</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â November 2025 A short update on harm pressure.</title>
+  <title>Circuits Updates — November 2025 A short update on harm pressure.</title>
   <description>October 2025</description>
   <link>https://transformer-circuits.pub/2025/november-update/index.html</link>
   <guid>https://transformer-circuits.pub/2025/november-update/index.html</guid>
@@ -37,7 +37,7 @@
   <guid>https://transformer-circuits.pub/2025/introspection/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â October 2025 Small updates on visual features and dictionary initialization.</title>
+  <title>Circuits Updates — October 2025 Small updates on visual features and dictionary initialization.</title>
   <description>September 2025</description>
   <link>https://transformer-circuits.pub/2025/october-update/index.html</link>
   <guid>https://transformer-circuits.pub/2025/october-update/index.html</guid>
@@ -49,13 +49,13 @@
   <guid>https://transformer-circuits.pub/2025/linebreaks/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â September 2025 A small update on features and in-context learning.</title>
+  <title>Circuits Updates — September 2025 A small update on features and in-context learning.</title>
   <description>August 2025</description>
   <link>https://transformer-circuits.pub/2025/september-update/index.html</link>
   <guid>https://transformer-circuits.pub/2025/september-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â August 2025 A small update: How does a persona modify the assistantâs response?</title>
+  <title>Circuits Updates — August 2025 A small update: How does a persona modify the assistant’s response?</title>
   <description>July 2025</description>
   <link>https://transformer-circuits.pub/2025/august-update/index.html</link>
   <guid>https://transformer-circuits.pub/2025/august-update/index.html</guid>
@@ -86,7 +86,7 @@
   <guid>https://transformer-circuits.pub/2025/bulk-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â July 2025 A collection of small updates: revisiting A Mathematical Framework and applications of
+  <title>Circuits Updates — July 2025 A collection of small updates: revisiting A Mathematical Framework and applications of
                     interpretability to biology.</title>
   <description>April 2025</description>
   <link>https://transformer-circuits.pub/2025/july-update/index.html</link>
@@ -100,7 +100,7 @@
   <guid>https://alignment.anthropic.com/2025/automated-auditing/</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â April 2025 A collection of small updates: jailbreaks, dense features, and spinning up on interpretability.</title>
+  <title>Circuits Updates — April 2025 A collection of small updates: jailbreaks, dense features, and spinning up on interpretability.</title>
   <description>March 2025</description>
   <link>https://transformer-circuits.pub/2025/april-update/index.html</link>
   <guid>https://transformer-circuits.pub/2025/april-update/index.html</guid>
@@ -112,8 +112,8 @@
   <guid>https://transformer-circuits.pub/2025/attention-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>On the Biology of a Large Language Model Lindsey et al., 2025 We investigate the internal mechanisms used by Claude 3.5 Haiku â Anthropic&#x27;s lightweight
-                    production model â in a variety of contexts.</title>
+  <title>On the Biology of a Large Language Model Lindsey et al., 2025 We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic&#x27;s lightweight
+                    production model — in a variety of contexts.</title>
   <description>February 2025</description>
   <link>https://transformer-circuits.pub/2025/attribution-graphs/biology.html</link>
   <guid>https://transformer-circuits.pub/2025/attribution-graphs/biology.html</guid>
@@ -132,7 +132,7 @@
   <guid>https://transformer-circuits.pub/2025/crosscoder-diffing-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â January 2025 A collection of small updates: dictionary learning optimization techniques.</title>
+  <title>Circuits Updates — January 2025 A collection of small updates: dictionary learning optimization techniques.</title>
   <description>December 2024</description>
   <link>https://transformer-circuits.pub/2025/january-update/index.html</link>
   <guid>https://transformer-circuits.pub/2025/january-update/index.html</guid>
@@ -156,26 +156,26 @@
   <guid>https://transformer-circuits.pub/2024/features-as-classifiers/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â September 2024 A collection of small updates: investigating successor heads, oversampling data in SAEs.</title>
+  <title>Circuits Updates — September 2024 A collection of small updates: investigating successor heads, oversampling data in SAEs.</title>
   <description>August 2024</description>
   <link>https://transformer-circuits.pub/2024/september-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/september-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â August 2024 A collection of small updates: interpretability evals, reproducing self-explanation.</title>
+  <title>Circuits Updates — August 2024 A collection of small updates: interpretability evals, reproducing self-explanation.</title>
   <description>July 2024</description>
   <link>https://transformer-circuits.pub/2024/august-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/august-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â July 2024 A collection of small updates: five hurdles, linear representations, dark matter, pivot tables,
+  <title>Circuits Updates — July 2024 A collection of small updates: five hurdles, linear representations, dark matter, pivot tables,
                     feature sensitivity.</title>
   <description>June 2024</description>
   <link>https://transformer-circuits.pub/2024/july-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/july-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â June 2024 A collection of small updates: topk and gated SAE investigation.</title>
+  <title>Circuits Updates — June 2024 A collection of small updates: topk and gated SAE investigation.</title>
   <description>May 2024</description>
   <link>https://transformer-circuits.pub/2024/june-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/june-update/index.html</guid>
@@ -188,13 +188,13 @@
   <guid>https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â April 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
+  <title>Circuits Updates — April 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
   <description>March 2024</description>
   <link>https://transformer-circuits.pub/2024/april-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/april-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â March 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
+  <title>Circuits Updates — March 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
   <description>February 2024</description>
   <link>https://transformer-circuits.pub/2024/march-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/march-update/index.html</guid>
@@ -207,13 +207,13 @@
   <guid>https://transformer-circuits.pub/2024/qualitative-essay/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â February 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
+  <title>Circuits Updates — February 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
   <description>January 2024</description>
   <link>https://transformer-circuits.pub/2024/feb-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/feb-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â January 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
+  <title>Circuits Updates — January 2024 A collection of small updates from the Anthropic Interpretability Team.</title>
   <description>October 2023</description>
   <link>https://transformer-circuits.pub/2024/jan-update/index.html</link>
   <guid>https://transformer-circuits.pub/2024/jan-update/index.html</guid>
@@ -226,13 +226,13 @@
   <guid>https://transformer-circuits.pub/2023/monosemantic-features/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â July 2023 A collection of small updates from the Anthropic Interpretability Team.</title>
+  <title>Circuits Updates — July 2023 A collection of small updates from the Anthropic Interpretability Team.</title>
   <description>May 2023</description>
   <link>https://transformer-circuits.pub/2023/july-update/index.html</link>
   <guid>https://transformer-circuits.pub/2023/july-update/index.html</guid>
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
-  <title>Circuits Updates â May 2023 A collection of small updates from the Anthropic Interpretability Team.</title>
+  <title>Circuits Updates — May 2023 A collection of small updates from the Anthropic Interpretability Team.</title>
   <description>March 2023</description>
   <link>https://transformer-circuits.pub/2023/may-update/index.html</link>
   <guid>https://transformer-circuits.pub/2023/may-update/index.html</guid>
@@ -247,7 +247,7 @@
   <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
  </item> <item>
   <title>Distributed Representations: Composition &amp; Superposition An informal note on how &quot;distributed representations&quot; might be understood
-                    as two different, competing strategies â &quot;composition&quot; and &quot;superposition&quot; â with quite
+                    as two different, competing strategies — &quot;composition&quot; and &quot;superposition&quot; — with quite
                     different properties.</title>
   <description>March 2023</description>
   <link>https://transformer-circuits.pub/2023/superposition-composition/index.html</link>
@@ -332,19 +332,19 @@
  </item> <item>
   <title>Original Distill Circuits Thread Our exploration of Transformers builds heavily on the original Circuits
                     thread on Distill.</title>
-  <description>May 2026 HeadVis We develop an interactive visualization tool to help us understand the behaviors of attention heads in language models. April 2026 Emotion Concepts and their Function in a Large Language Model Sofroniew et al., 2026 We find representations of emotion concepts in Claude Sonnet 4.5 and show that they causally influence its outputs. December 2025 Circuits Cross-Post â Activation Oracles We train language models to answer questions about their own activations in natural language. November 2025 Circuits Updates â November 2025 A short update on harm pressure. October 2025 Emergent Introspective Awareness in Large Language Models Lindsey, 2025 We find evidence that language models can introspect on their internal states. Circuits Updates â October 2025 Small updates on visual features and dictionary initialization. When Models Manipulate Manifolds: The Geometry of a Counting Task Gurnee et al., 2025 We find geometric structure underlying the mechanisms of a fundamental language model behavior. September 2025 Circuits Updates â September 2025 A small update on features and in-context learning. August 2025 Circuits Updates â August 2025 A small update: How does a persona modify the assistantâs response? July 2025 A Toy Model of Mechanistic (Un)Faithfulness When transcoders go awry. Tracing Attention Computation Through Feature Interactions Kamath et al., 2025 We describe and apply a method to explain attention patterns in terms of
-                    feature interactions, and integrate this information into attribution graphs. A Toy Model of Interference Weights Unpacking &quot;interference weights&quot; in some more depth. Sparse mixtures of linear transforms We investigate sparse mixture of linear transforms (MOLT), a new approach to transcoders. Circuits Updates â July 2025 A collection of small updates: revisiting A Mathematical Framework and applications of
+  <description>May 2026 HeadVis We develop an interactive visualization tool to help us understand the behaviors of attention heads in language models. April 2026 Emotion Concepts and their Function in a Large Language Model Sofroniew et al., 2026 We find representations of emotion concepts in Claude Sonnet 4.5 and show that they causally influence its outputs. December 2025 Circuits Cross-Post — Activation Oracles We train language models to answer questions about their own activations in natural language. November 2025 Circuits Updates — November 2025 A short update on harm pressure. October 2025 Emergent Introspective Awareness in Large Language Models Lindsey, 2025 We find evidence that language models can introspect on their internal states. Circuits Updates — October 2025 Small updates on visual features and dictionary initialization. When Models Manipulate Manifolds: The Geometry of a Counting Task Gurnee et al., 2025 We find geometric structure underlying the mechanisms of a fundamental language model behavior. September 2025 Circuits Updates — September 2025 A small update on features and in-context learning. August 2025 Circuits Updates — August 2025 A small update: How does a persona modify the assistant’s response? July 2025 A Toy Model of Mechanistic (Un)Faithfulness When transcoders go awry. Tracing Attention Computation Through Feature Interactions Kamath et al., 2025 We describe and apply a method to explain attention patterns in terms of
+                    feature interactions, and integrate this information into attribution graphs. A Toy Model of Interference Weights Unpacking &quot;interference weights&quot; in some more depth. Sparse mixtures of linear transforms We investigate sparse mixture of linear transforms (MOLT), a new approach to transcoders. Circuits Updates — July 2025 A collection of small updates: revisiting A Mathematical Framework and applications of
                     interpretability to biology. Automated Auditing A note on using agents to perform automated alignment audits, including using interpretability
-                    tools. April 2025 Circuits Updates â April 2025 A collection of small updates: jailbreaks, dense features, and spinning up on interpretability. Progress on Attention An update on our progress studying attention. March 2025 On the Biology of a Large Language Model Lindsey et al., 2025 We investigate the internal mechanisms used by Claude 3.5 Haiku â Anthropic&#x27;s lightweight
-                    production model â in a variety of contexts. Circuit Tracing: Revealing Computational Graphs in Language Models Ameisen et al., 2025 We describe an approach to tracing the &quot;step-by-step&quot; computation involved when a model responds
-                    to a single prompt. February 2025 Insights on Crosscoder Model Diffing A preliminary note on using crosscoders to diff models. January 2025 Circuits Updates â January 2025 A collection of small updates: dictionary learning optimization techniques. December 2024 Stage-Wise Model Diffing A preliminary note on model diffing through dictionary fine-tuning. October 2024 Sparse Crosscoders for Cross-Layer Features and Model Diffing A preliminary note on a way to get consistent features across layers, and even models. Using Dictionary Learning Features as Classifiers A preliminary note comparing feature-based and raw-activation based harmfulness classifiers. September 2024 Circuits Updates â September 2024 A collection of small updates: investigating successor heads, oversampling data in SAEs. August 2024 Circuits Updates â August 2024 A collection of small updates: interpretability evals, reproducing self-explanation. July 2024 Circuits Updates â July 2024 A collection of small updates: five hurdles, linear representations, dark matter, pivot tables,
-                    feature sensitivity. June 2024 Circuits Updates â June 2024 A collection of small updates: topk and gated SAE investigation. May 2024 Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet Templeton et al., 2024 Using a sparse autoencoder, we extract a large number of interpretable features from Claude 3
-                    Sonnet. Some appear to be safety-relevant. April 2024 Circuits Updates â April 2024 A collection of small updates from the Anthropic Interpretability Team. March 2024 Circuits Updates â March 2024 A collection of small updates from the Anthropic Interpretability Team. Reflections on Qualitative Research Some opinionated thoughts on why interpretability research may have
-                    qualitative aspects be more central than we&#x27;re used to in other fields. February 2024 Circuits Updates â February 2024 A collection of small updates from the Anthropic Interpretability Team. January 2024 Circuits Updates â January 2024 A collection of small updates from the Anthropic Interpretability Team. October 2023 Towards Monosemanticity: Decomposing Language Models With Dictionary Learning Bricken et al., 2023 Using a sparse autoencoder, we extract a large number of interpretable features from a one-layer
-                    transformer. July 2023 Circuits Updates â July 2023 A collection of small updates from the Anthropic Interpretability Team. May 2023 Circuits Updates â May 2023 A collection of small updates from the Anthropic Interpretability Team. Interpretability Dreams Our present research aims to create a foundation for mechanistic
+                    tools. April 2025 Circuits Updates — April 2025 A collection of small updates: jailbreaks, dense features, and spinning up on interpretability. Progress on Attention An update on our progress studying attention. March 2025 On the Biology of a Large Language Model Lindsey et al., 2025 We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic&#x27;s lightweight
+                    production model — in a variety of contexts. Circuit Tracing: Revealing Computational Graphs in Language Models Ameisen et al., 2025 We describe an approach to tracing the &quot;step-by-step&quot; computation involved when a model responds
+                    to a single prompt. February 2025 Insights on Crosscoder Model Diffing A preliminary note on using crosscoders to diff models. January 2025 Circuits Updates — January 2025 A collection of small updates: dictionary learning optimization techniques. December 2024 Stage-Wise Model Diffing A preliminary note on model diffing through dictionary fine-tuning. October 2024 Sparse Crosscoders for Cross-Layer Features and Model Diffing A preliminary note on a way to get consistent features across layers, and even models. Using Dictionary Learning Features as Classifiers A preliminary note comparing feature-based and raw-activation based harmfulness classifiers. September 2024 Circuits Updates — September 2024 A collection of small updates: investigating successor heads, oversampling data in SAEs. August 2024 Circuits Updates — August 2024 A collection of small updates: interpretability evals, reproducing self-explanation. July 2024 Circuits Updates — July 2024 A collection of small updates: five hurdles, linear representations, dark matter, pivot tables,
+                    feature sensitivity. June 2024 Circuits Updates — June 2024 A collection of small updates: topk and gated SAE investigation. May 2024 Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet Templeton et al., 2024 Using a sparse autoencoder, we extract a large number of interpretable features from Claude 3
+                    Sonnet. Some appear to be safety-relevant. April 2024 Circuits Updates — April 2024 A collection of small updates from the Anthropic Interpretability Team. March 2024 Circuits Updates — March 2024 A collection of small updates from the Anthropic Interpretability Team. Reflections on Qualitative Research Some opinionated thoughts on why interpretability research may have
+                    qualitative aspects be more central than we&#x27;re used to in other fields. February 2024 Circuits Updates — February 2024 A collection of small updates from the Anthropic Interpretability Team. January 2024 Circuits Updates — January 2024 A collection of small updates from the Anthropic Interpretability Team. October 2023 Towards Monosemanticity: Decomposing Language Models With Dictionary Learning Bricken et al., 2023 Using a sparse autoencoder, we extract a large number of interpretable features from a one-layer
+                    transformer. July 2023 Circuits Updates — July 2023 A collection of small updates from the Anthropic Interpretability Team. May 2023 Circuits Updates — May 2023 A collection of small updates from the Anthropic Interpretability Team. Interpretability Dreams Our present research aims to create a foundation for mechanistic
                     interpretability research. In doing so, it&#x27;s important to keep sight of what we&#x27;re trying to lay
                     the foundations for. Distributed Representations: Composition &amp; Superposition An informal note on how &quot;distributed representations&quot; might be understood
-                    as two different, competing strategies â &quot;composition&quot; and &quot;superposition&quot; â with quite
+                    as two different, competing strategies — &quot;composition&quot; and &quot;superposition&quot; — with quite
                     different properties. March 2023 Privileged Bases in the Transformer Residual Stream Our mathematical theories of the Transformer architecture suggest that
                     individual coordinates in the residual stream should have no special
                     significance, but recent work has shown that this observation is false in practice.
@@ -371,19 +371,19 @@
   <description>We think interpretability research benefits a lot from interactive articles (see  for a striking
                 example).
                 Previously we would have submitted to Distill, but with Distill on Hiatus ,
-                we&#x27;re taking a page from David Haâs approach of simply creating websites (eg. World Models ) for research projects.</description>
+                we&#x27;re taking a page from David Ha’s approach of simply creating websites (eg. World Models ) for research projects.</description>
   <link>https://distill.pub/2019/activation-atlas/</link>
   <guid>https://distill.pub/2019/activation-atlas/</guid>
-  <pubDate>Wed, 06 May 2026 03:55:02 -0000</pubDate>
+  <pubDate>Thu, 07 May 2026 03:53:14 -0000</pubDate>
  </item> <item>
   <title>Distill on Hiatus</title>
   <description>We think interpretability research benefits a lot from interactive articles (see Activation Atlases for a striking
                 example).
                 Previously we would have submitted to Distill, but with  ,
-                we&#x27;re taking a page from David Haâs approach of simply creating websites (eg. World Models ) for research projects.</description>
+                we&#x27;re taking a page from David Ha’s approach of simply creating websites (eg. World Models ) for research projects.</description>
   <link>https://distill.pub/2021/distill-hiatus/</link>
   <guid>https://distill.pub/2021/distill-hiatus/</guid>
-  <pubDate>Wed, 06 May 2026 03:55:02 -0000</pubDate>
+  <pubDate>Thu, 07 May 2026 03:53:14 -0000</pubDate>
  </item>
 </channel>
 </rss>
