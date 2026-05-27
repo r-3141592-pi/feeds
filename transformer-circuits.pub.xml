@@ -4,8 +4,8 @@
  <title>Transformer Circuits</title>
  <description>Unofficial RSS feed for Transformer Circuits Thread (transformer-circuits.pub)</description>
  <link>https://transformer-circuits.pub/</link>
- <lastBuildDate>Tue, 26 May 2026 04:18:16 -0000</lastBuildDate>
- <pubDate>Tue, 26 May 2026 04:18:16 -0000</pubDate>
+ <lastBuildDate>Wed, 27 May 2026 04:40:56 -0000</lastBuildDate>
+ <pubDate>Wed, 27 May 2026 04:40:56 -0000</pubDate>
  <item>
   <title>Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations Fraser-Taliente, Kantamneni, Ong, et al., 2026 We train Claude to translate its internal state into natural language.</title>
   <description>April 2026</description>
@@ -380,7 +380,7 @@
                 we&#x27;re taking a page from David Ha’s approach of simply creating websites (eg. World Models ) for research projects.</description>
   <link>https://distill.pub/2019/activation-atlas/</link>
   <guid>https://distill.pub/2019/activation-atlas/</guid>
-  <pubDate>Tue, 26 May 2026 04:18:16 -0000</pubDate>
+  <pubDate>Wed, 27 May 2026 04:40:56 -0000</pubDate>
  </item> <item>
   <title>Distill on Hiatus</title>
   <description>We think interpretability research benefits a lot from interactive articles (see Activation Atlases for a striking
@@ -389,7 +389,7 @@
                 we&#x27;re taking a page from David Ha’s approach of simply creating websites (eg. World Models ) for research projects.</description>
   <link>https://distill.pub/2021/distill-hiatus/</link>
   <guid>https://distill.pub/2021/distill-hiatus/</guid>
-  <pubDate>Tue, 26 May 2026 04:18:16 -0000</pubDate>
+  <pubDate>Wed, 27 May 2026 04:40:56 -0000</pubDate>
  </item>
 </channel>
 </rss>
