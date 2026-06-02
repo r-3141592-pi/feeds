@@ -4,9 +4,15 @@
  <title>Transformer Circuits</title>
  <description>Unofficial RSS feed for Transformer Circuits Thread (transformer-circuits.pub)</description>
  <link>https://transformer-circuits.pub/</link>
- <lastBuildDate>Mon, 01 Jun 2026 05:05:52 -0000</lastBuildDate>
- <pubDate>Mon, 01 Jun 2026 05:05:52 -0000</pubDate>
+ <lastBuildDate>Tue, 02 Jun 2026 04:51:46 -0000</lastBuildDate>
+ <pubDate>Tue, 02 Jun 2026 04:51:46 -0000</pubDate>
  <item>
+  <title>Circuits Updates â May 2026 A short update on understanding features through downstream connections.</title>
+  <description>April 2026</description>
+  <link>https://transformer-circuits.pub/2026/may-update/index.html</link>
+  <guid>https://transformer-circuits.pub/2026/may-update/index.html</guid>
+  <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
+ </item> <item>
   <title>Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations Fraser-Taliente, Kantamneni, Ong, et al., 2026 We train Claude to translate its internal state into natural language.</title>
   <description>April 2026</description>
   <link>https://transformer-circuits.pub/2026/nla/index.html</link>
@@ -338,7 +344,7 @@
  </item> <item>
   <title>Original Distill Circuits Thread Our exploration of Transformers builds heavily on the original Circuits
                     thread on Distill.</title>
-  <description>May 2026 Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations Fraser-Taliente, Kantamneni, Ong, et al., 2026 We train Claude to translate its internal state into natural language. HeadVis We develop an interactive visualization tool to help us understand the behaviors of attention heads in language models. April 2026 Emotion Concepts and their Function in a Large Language Model Sofroniew et al., 2026 We find representations of emotion concepts in Claude Sonnet 4.5 and show that they causally influence its outputs. December 2025 Circuits Cross-Post â Activation Oracles We train language models to answer questions about their own activations in natural language. November 2025 Circuits Updates â November 2025 A short update on harm pressure. October 2025 Emergent Introspective Awareness in Large Language Models Lindsey, 2025 We find evidence that language models can introspect on their internal states. Circuits Updates â October 2025 Small updates on visual features and dictionary initialization. When Models Manipulate Manifolds: The Geometry of a Counting Task Gurnee et al., 2025 We find geometric structure underlying the mechanisms of a fundamental language model behavior. September 2025 Circuits Updates â September 2025 A small update on features and in-context learning. August 2025 Circuits Updates â August 2025 A small update: How does a persona modify the assistantâs response? July 2025 A Toy Model of Mechanistic (Un)Faithfulness When transcoders go awry. Tracing Attention Computation Through Feature Interactions Kamath et al., 2025 We describe and apply a method to explain attention patterns in terms of
+  <description>May 2026 Circuits Updates â May 2026 A short update on understanding features through downstream connections. Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations Fraser-Taliente, Kantamneni, Ong, et al., 2026 We train Claude to translate its internal state into natural language. HeadVis We develop an interactive visualization tool to help us understand the behaviors of attention heads in language models. April 2026 Emotion Concepts and their Function in a Large Language Model Sofroniew et al., 2026 We find representations of emotion concepts in Claude Sonnet 4.5 and show that they causally influence its outputs. December 2025 Circuits Cross-Post â Activation Oracles We train language models to answer questions about their own activations in natural language. November 2025 Circuits Updates â November 2025 A short update on harm pressure. October 2025 Emergent Introspective Awareness in Large Language Models Lindsey, 2025 We find evidence that language models can introspect on their internal states. Circuits Updates â October 2025 Small updates on visual features and dictionary initialization. When Models Manipulate Manifolds: The Geometry of a Counting Task Gurnee et al., 2025 We find geometric structure underlying the mechanisms of a fundamental language model behavior. September 2025 Circuits Updates â September 2025 A small update on features and in-context learning. August 2025 Circuits Updates â August 2025 A small update: How does a persona modify the assistantâs response? July 2025 A Toy Model of Mechanistic (Un)Faithfulness When transcoders go awry. Tracing Attention Computation Through Feature Interactions Kamath et al., 2025 We describe and apply a method to explain attention patterns in terms of
                     feature interactions, and integrate this information into attribution graphs. A Toy Model of Interference Weights Unpacking &quot;interference weights&quot; in some more depth. Sparse mixtures of linear transforms We investigate sparse mixture of linear transforms (MOLT), a new approach to transcoders. Circuits Updates â July 2025 A collection of small updates: revisiting A Mathematical Framework and applications of
                     interpretability to biology. Automated Auditing A note on using agents to perform automated alignment audits, including using interpretability
                     tools. April 2025 Circuits Updates â April 2025 A collection of small updates: jailbreaks, dense features, and spinning up on interpretability. Progress on Attention An update on our progress studying attention. March 2025 On the Biology of a Large Language Model Lindsey et al., 2025 We investigate the internal mechanisms used by Claude 3.5 Haiku â Anthropic&#x27;s lightweight
@@ -380,7 +386,7 @@
                 we&#x27;re taking a page from David Haâs approach of simply creating websites (eg. World Models ) for research projects.</description>
   <link>https://distill.pub/2019/activation-atlas/</link>
   <guid>https://distill.pub/2019/activation-atlas/</guid>
-  <pubDate>Mon, 01 Jun 2026 05:05:52 -0000</pubDate>
+  <pubDate>Tue, 02 Jun 2026 04:51:46 -0000</pubDate>
  </item> <item>
   <title>Distill on Hiatus</title>
   <description>We think interpretability research benefits a lot from interactive articles (see Activation Atlases for a striking
@@ -389,7 +395,7 @@
                 we&#x27;re taking a page from David Haâs approach of simply creating websites (eg. World Models ) for research projects.</description>
   <link>https://distill.pub/2021/distill-hiatus/</link>
   <guid>https://distill.pub/2021/distill-hiatus/</guid>
-  <pubDate>Mon, 01 Jun 2026 05:05:52 -0000</pubDate>
+  <pubDate>Tue, 02 Jun 2026 04:51:46 -0000</pubDate>
  </item>
 </channel>
 </rss>
